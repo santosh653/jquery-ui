@@ -5,7 +5,7 @@ arch:
 dist: bionic
 language: java
 jdk:
-  - openjdk11
+  - openjdk14
 env:
   - NODE_VERSION="10"
   - NODE_VERSION="14"
